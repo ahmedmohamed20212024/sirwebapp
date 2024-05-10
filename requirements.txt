@@ -1,6 +1,1 @@
 streamlit
-PIL
-streamlit_extras
-st_pages
-base64
-os
